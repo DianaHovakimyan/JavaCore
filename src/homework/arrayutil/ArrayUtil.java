@@ -11,6 +11,9 @@ public class ArrayUtil {
         }
         System.out.println();
 
+
+
+
         //Տպեք մասիվի ամենամեծ թիվը,
         System.out.print("Array largest number: ");
         int arrIndex = arr[0];
